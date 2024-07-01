@@ -1,5 +1,5 @@
-# Real Time Chat App React and Firebase
-![dp](https://github.com/senethmendis/book-app-react-crub-practice/blob/main/client/public/Screenshot%202024-06-30%20180131%20(1).png)
+# Travel Web App UX UI
+![dp](https://github.com/senethmendis/travel-webbapp-ui-ux/blob/master/public/repo-cover.png)
 
 ### Built With
 
